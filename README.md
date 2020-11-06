@@ -1,3 +1,3 @@
 # employee-tracker
 Screenshots of Working Product 
-![] employee-tracker.gif
+! [] https://github.com/jhoover1077/employee-tracker.gif
