@@ -1,3 +1,3 @@
 # employee-tracker
 Screenshots of Working Product 
-![](employee-tracker.gif)
+![] employee-tracker.gif
